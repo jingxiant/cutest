@@ -1,0 +1,3 @@
+[submodule "prism-sdgmc-modules"]
+	path = prism-sdgmc-modules
+	url = https://github.com/jingxiant/prism-sdgmc-modules
